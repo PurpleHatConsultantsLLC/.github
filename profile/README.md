@@ -41,9 +41,3 @@ We deliver investigative intelligence through three specialized technical enable
 
 ---
 
-**Lead Detective Direct Line:** `[REDACTED]` 
-*Phone and secure chat channels are provisioned only upon active investigation status.*
-
-</div>
-
----
