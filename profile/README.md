@@ -2,7 +2,7 @@
 
 <img src="../Three%20of%20us.jpg" width="250"><br>
 
-# Purple Hat Consultants
+# Purple Hat Consultants LLC
 ## Forensic Cybersecurity Enablement
 
 > ### 🔴 Red Hat Offense &nbsp; | &nbsp; 🔵 Blue Hat Defense &nbsp; | &nbsp; 🟣 Purple Hat Intelligence
