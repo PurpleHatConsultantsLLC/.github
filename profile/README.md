@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="Three%20of%20us.jpg" width="250"><br>
+<img src="../Three%20of%20us.jpg" width="250"><br>
 
 # Purple Hat Consultants
 ## Forensic Cybersecurity Enablement
@@ -33,6 +33,13 @@ We deliver investigative intelligence through three specialized technical enable
 [📩 **Request an Intelligence Briefing**](mailto:detectives@purplehatconsultants.com) &nbsp; | &nbsp; [📁 **Open a Case for Review**](mailto:casefiles@purplehatconsultants.com)
 
 <br>
+
+**Lead Detective Direct Line:** `[REDACTED]` 
+*Phone and secure chat channels are provisioned only upon active investigation status.*
+
+</div>
+
+---
 
 **Lead Detective Direct Line:** `[REDACTED]` 
 *Phone and secure chat channels are provisioned only upon active investigation status.*
